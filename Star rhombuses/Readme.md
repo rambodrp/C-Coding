@@ -1,0 +1,1 @@
+A program that takes the number n from the input and prints two rhombuses of diameter n side by side using the * character.

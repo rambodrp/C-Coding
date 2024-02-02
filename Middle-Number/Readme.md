@@ -1,0 +1,1 @@
+A program that takes five numbers from the user and prints the middle number.

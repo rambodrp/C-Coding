@@ -1,0 +1,2 @@
+The input consists of a natural number k, the number of divisors of the desired good number.
+The output of your program is a natural number. This natural number must be the first good natural number that has at least k natural divisors.

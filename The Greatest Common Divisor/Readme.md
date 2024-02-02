@@ -1,0 +1,1 @@
+A program that takes two positive integers from the user and prints their greatest common divisor.

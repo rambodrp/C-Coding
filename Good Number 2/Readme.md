@@ -1,0 +1,1 @@
+Suppose good numbers are numbers that are divisible by the sum of their digits. For example, 126 is a good number, because it is divisible by the sum of its digits, which is 9. Write a program that prints all the good numbers between 1 and 1000 in order below.

@@ -1,0 +1,2 @@
+In the first line, n means the number of points, and in the next n line, two integers are given in each line, which are the coordinates of a point.
+The output should contain the area of the desired rectangle.

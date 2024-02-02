@@ -1,0 +1,1 @@
+A program that takes the numerator and denominator of a fraction (the numerator and denominator of the fraction are integers (probably negative)) and converts it into the simplest form possible.

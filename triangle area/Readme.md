@@ -1,0 +1,1 @@
+A program that takes the coordinates of three points on the plane and calculates the area of the forming triangle. The coordinates are integers and the area must also be an integer.
